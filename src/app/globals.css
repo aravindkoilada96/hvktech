@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+:root {
+  --color-accent: #0ec9c3;
+  --color-ink: #161616;
+  --color-cream: #eee8aa;
+}
+
+@theme inline {
+  --font-sans: var(--font-bitter);
+  --font-heading: var(--font-bitter);
+}
+
+* {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-bitter), serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-bitter), serif;
+}
