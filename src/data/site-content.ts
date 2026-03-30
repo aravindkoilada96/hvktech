@@ -75,8 +75,8 @@ export const siteConfig = {
 
 export const services: ServiceItem[] = [
   {
-    slug: "autommation-testing",
-    title: "AUTOMMATION TESTING",
+    slug: "automation-testing",
+    title: "AUTOMATION TESTING",
     shortDescription: "End-to-end test strategy and QA automation for faster, safer releases.",
   },
   {

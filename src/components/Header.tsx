@@ -15,7 +15,7 @@ export function Header() {
       <div className="mx-auto flex w-full max-w-6xl items-center justify-between px-4 py-3 sm:px-6">
         <Link href="/" className="flex items-center gap-3">
           <Image
-            src="/assets/logo.png"
+            src="/assets/hvklogo.png"
             alt="hvktechinnovations.in logo"
             width={44}
             height={44}
